@@ -1,0 +1,24 @@
+.main_headline{
+    text-align: center;
+    color: red;
+}
+#cmntContainer{
+    background: rgb(216, 213, 213);
+}
+.cmnt{
+    text-align: center;
+    color: rgb(255, 0, 13);
+}
+.coment{
+    margin: 0 auto;
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    background: tomato;
+    border: none;
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+}
